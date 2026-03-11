@@ -1,0 +1,45 @@
+<h2>Lab – Introduction to Amazon EC2</h2>
+
+<p>
+In this lab, I explored the fundamentals of <strong>Amazon EC2</strong> by deploying and managing a 
+cloud-based virtual server.
+</p>
+
+<p>
+I launched an EC2 instance using <strong>Amazon Linux 2023</strong> and configured it as a simple 
+<strong>web server</strong> using a <strong>User Data script</strong> that automatically installed and started 
+the Apache web server. Once the instance was running, I monitored its health and performance through the 
+<strong>EC2 dashboard</strong> and <strong>Amazon CloudWatch</strong>.
+</p>
+
+<p>
+I then updated the <strong>security group inbound rules</strong> to allow HTTP traffic on 
+<strong>port 80</strong> and successfully accessed the web page hosted on the instance using its 
+<strong>public IPv4 address</strong>.
+</p>
+
+<p>
+To practice cloud scalability, I resized the instance from 
+<strong>t3.micro</strong> to <strong>t3.small</strong> and expanded the 
+<strong>Amazon EBS storage volume</strong> from <strong>8 GiB</strong> to <strong>10 GiB</strong>.
+</p>
+
+<p>
+Finally, I tested <strong>termination protection</strong>, confirmed that it prevented accidental deletion,
+then disabled it and terminated the instance.
+</p>
+
+<h3>Key skills practiced</h3>
+
+<ul>
+<li>Launching and configuring an EC2 instance</li>
+<li>Deploying a web server using a User Data script</li>
+<li>Managing security groups and network access</li>
+<li>Monitoring instance health and metrics</li>
+<li>Resizing compute and storage resources</li>
+<li>Testing termination protection and instance lifecycle management</li>
+</ul>
+
+<p>
+<strong>Exercise successfully completed and validated.</strong>
+</p>
