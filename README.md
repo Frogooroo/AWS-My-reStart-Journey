@@ -8,6 +8,7 @@ AWS re/Start Journey Portfolio
 
 <p>
 I’m Sylvaine Bernal, an experienced Digital Marketing Director specialised in digital transformation of businesses and customers’ experiences
+  
   This portfolio documents my learning journey through the <strong>AWS re/Start (MyRestart) program</strong>, 
 a 12-week intensive training designed by Amazon Web Services to prepare participants for careers in 
 <strong>cloud computing</strong> and <strong>IT operations</strong>.
