@@ -106,6 +106,9 @@ Open the **Bucket website endpoint** URL in a new browser tab:
 
 Your ice cream shop website should now be live! 🎉
 
+<img width="334" height="191" alt="13 (1)" src="https://github.com/user-attachments/assets/fb81d5a0-b522-4219-be65-d678cbb90e75" />
+
+
 ---
 
 ## Resources
