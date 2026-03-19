@@ -34,8 +34,8 @@ This portfolio will grow week by week as I learn new concepts and complete pract
 
 <pre>
 Week 1  ██████ Completed
-Week 2  ██████ In progress ← I’m here
-Week 3  ░░░░░░
+Week 2  ██████ Completed
+Week 3  ██████ In progress ← I’m here
 Week 4  ░░░░░░
 Week 5  ░░░░░░
 Week 6  ░░░░░░
